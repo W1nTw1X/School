@@ -5,6 +5,11 @@
 1. yksi
 2. kaksi
 3. kolme
+
+- minus
++ plus
+* tähti
+
 *hi*
 **hi**
 ~~hi~~
