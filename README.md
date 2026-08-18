@@ -2,7 +2,9 @@
 
 # Tämä on otsikko
 ## Tämä on toisen otsikko
-
+1. yksi
+2. kaksi
+3. kolme
 *hi*
 **hi**
 ~~hi~~
